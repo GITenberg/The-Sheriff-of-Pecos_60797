@@ -1,0 +1,24 @@
+_repo: The-Sheriff-of-Pecos_60797
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bedford-Jones, H. (Henry)
+    alias: Bedford-Jones, Henry James O'Brien
+    birthdate: 1887
+    deathdate: 1949
+    gutenberg_agent_id: '34930'
+    url: http://www.gutenberg.org/2009/agents/34930
+    wikipedia: http://en.wikipedia.org/wiki/H._Bedford-Jones
+description: ''
+gutenberg_issued: '2019-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60797'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Sheriff of Pecos
+url: http://www.gutenberg.org/ebooks/60797
