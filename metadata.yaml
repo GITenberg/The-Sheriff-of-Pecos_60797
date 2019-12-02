@@ -1,5 +1,8 @@
 _repo: The-Sheriff-of-Pecos_60797
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60797-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Bedford-Jones, H. (Henry)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34930
     wikipedia: http://en.wikipedia.org/wiki/H._Bedford-Jones
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60797#The-Sheriff-of-Pecos
 gutenberg_issued: '2019-11-26'
 gutenberg_type: Text
 identifiers:
